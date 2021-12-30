@@ -64,7 +64,7 @@ https://www.his.se/en/research/informatics/distributed-real-time-systems/blockch
 
 ### Other information
 
-- in the news:[ 1](https://www.google.com/url?q=https%3A%2F%2Fwww.his.se%2Fen%2Fnews%2F2021%2Fmarch%2Fis-blockchain-technology-the-solution-to-swedens-electricity-challenges%2F&sa=D&sntz=1&usg=AFQjCNGOieiLxps4gsTQjX8Wnq2uxs_s0A), [2](https://energiforsk.se/nyhetsarkiv/arkiverade/gemensam-marknad-genom-blockkedjeteknik/)
+- **in the news:[ 1](https://www.google.com/url?q=https%3A%2F%2Fwww.his.se%2Fen%2Fnews%2F2021%2Fmarch%2Fis-blockchain-technology-the-solution-to-swedens-electricity-challenges%2F&sa=D&sntz=1&usg=AFQjCNGOieiLxps4gsTQjX8Wnq2uxs_s0A), [2](https://energiforsk.se/nyhetsarkiv/arkiverade/gemensam-marknad-genom-blockkedjeteknik/)**
 - support thesis work: 
   - [Blockchain in the Swedish Energy market (2021) ](https://www.google.com/url?q=https%3A%2F%2Fwww.diva-portal.org%2Fsmash%2Fget%2Fdiva2%3A1593013%2FFULLTEXT01.pdf&sa=D&sntz=1&usg=AFQjCNESyOL-OLIPPpjXnuSPU1-Irz7Teg)
   - [What are the Problems with Implementing Blockchain Technology for Decentralized IoT Authentication: A Systematic Literature Review (2020)](http://www.google.com/url?q=http%3A%2F%2Fhis.diva-portal.org%2Fsmash%2Frecord.jsf%3Fpid%3Ddiva2%3A1450782%26dswid%3D-5275&sa=D&sntz=1&usg=AFQjCNGLLYCGGIg5FFd7GSsy3kgCWsIGDQ)
@@ -181,16 +181,12 @@ The EFIPSANS project  aims at exposing the features in IP version six protocols 
 # Education projects:
 
 1) [Linnaeus-Palme Project](https://www.utbyten.se/program/linnaeus-palme-partnerskap/), international bilateral education collaboration with [Addis Ababa University](http://www.aau.edu.et/), Ethiopia (2015-2017, University of Skövde, supported by [UHR](https://www.uhr.se/): The Swedish Council for Higher Education, project leader)
-     
      - 1st stage: 2015-2016, mutual visiting
      - 2nd stage: 2016-2017, teaching exchange
-     
 2) “SPA”: Strategic Partnership between School of Informatics in the University of Skövde and IT-PhD
     Program in Addis Ababa University. (2018 ) (co-applicant)
-    
-    
-    
-    in the news: [1](http://www.google.com/url?q=http%3A%2F%2Fethemb.se%2Fambassador-visited-to-the-university-of-skovde%2F&sa=D&sntz=1&usg=AFQjCNEwndKxWql-1CwHfDnfcUld97MXcA),  [2](https://www.google.com/url?q=https%3A%2F%2Fwww.his.se%2Fen%2Fnews%2F2018%2Faugust%2Fambassador-visits-university-of-skovde%2F&sa=D&sntz=1&usg=AFQjCNFnpTPx7DzpMzcxLaqyASQY_xxp7Q), [3](https://www.google.com/url?q=https%3A%2F%2Fallafrica.com%2Fstories%2F201511160818.html&sa=D&sntz=1&usg=AFQjCNHQoBAs3dyrvbgPmIdJlzVWXSspKg), [4](https://www.google.com/url?q=https%3A%2F%2Fwww.geeskaafrika.com%2Faddis-ababa-university-signs-an-mou-with-skovde-university-sweden%2F&sa=D&sntz=1&usg=AFQjCNEclYpKwO5YqoOIpLQh542kwvlOQA) 
+
+**in the news: [1](http://www.google.com/url?q=http%3A%2F%2Fethemb.se%2Fambassador-visited-to-the-university-of-skovde%2F&sa=D&sntz=1&usg=AFQjCNEwndKxWql-1CwHfDnfcUld97MXcA),  [2](https://www.google.com/url?q=https%3A%2F%2Fwww.his.se%2Fen%2Fnews%2F2018%2Faugust%2Fambassador-visits-university-of-skovde%2F&sa=D&sntz=1&usg=AFQjCNFnpTPx7DzpMzcxLaqyASQY_xxp7Q), [3](https://www.google.com/url?q=https%3A%2F%2Fallafrica.com%2Fstories%2F201511160818.html&sa=D&sntz=1&usg=AFQjCNHQoBAs3dyrvbgPmIdJlzVWXSspKg), [4](https://www.google.com/url?q=https%3A%2F%2Fwww.geeskaafrika.com%2Faddis-ababa-university-signs-an-mou-with-skovde-university-sweden%2F&sa=D&sntz=1&usg=AFQjCNEclYpKwO5YqoOIpLQh542kwvlOQA)** 
 
 ------
 
