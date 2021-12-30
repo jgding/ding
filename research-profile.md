@@ -59,7 +59,7 @@ Course responsible or examiner for following courses:
 
   ## Financed by
 
-  This project is financed by Vinnova. ![](D:\GitHub-Ding\ding\figures\vinnova.png)
+  This project is financed by Vinnova. https://github.com/jgding/ding/blob/main/figures/vinnova.png
 
 3. ## ELVIRA: Threat modeling and resilience of critical infrastructures (2017-2020, University of Skövde,
 
