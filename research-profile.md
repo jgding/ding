@@ -23,7 +23,7 @@ Course responsible or examiner for following courses:
 # Research projects
 
 1. ## Blockchain based Production and Distribution Controls of Smart Grids, supported by Energiforsk (https://energiforsk.se/), (2021-2022, at University of Skövde) (poject leader)
-  https://www.his.se/en/research/informatics/distributed-real-time-systems/blockchain-based-production/
+    https://www.his.se/en/research/informatics/distributed-real-time-systems/blockchain-based-production/
 
   Over the past years, Sweden has seen a large increase in micro producers, owner of energy system. That means more installations of low voltage distributed generators and energy production systems, such as solar panels, bioelectrical energy, wind energy etc., have been connected to traditional grids. The Swedish system is set-up in a way that a micro-producer can either consume the electricity the energy system produces or feed it into the grid. The electricity not used is automatically delivered.
 
@@ -94,7 +94,7 @@ Course responsible or examiner for following courses:
   ## Financed by
 
   This project is financed by The European Union - The Internal Security Fund. 
-  
+
   ![image](https://user-images.githubusercontent.com/6349761/147782584-337780b2-8ea5-472a-aa80-df31e392d84a.png)
 
 
@@ -148,10 +148,10 @@ Course responsible or examiner for following courses:
 7. Autonomic Security Management in Dynamic Networks (2010 -2012, University of Luxembourg, supported by FNR: the National Research Fund of Luxembourg) (project leader)
 
 8. Behavior-based Malicious codes (network virus) Detection (2007–2008, East China Normal University,
-  supported by the Shanghai Science and Technology Committee, China) (project leader)
+    supported by the Shanghai Science and Technology Committee, China) (project leader)
 
 9. Research on the Data Process for Large Scale Digital Media System (2007 – 2009, East China Normal
-  University, supported by the Shanghai Science and Technology Committee, China) (project leader)
+    University, supported by the Shanghai Science and Technology Committee, China) (project leader)
 
 # Education projects:
 
