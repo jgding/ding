@@ -6,7 +6,7 @@
 
 
 
-**Dr. Jianguo Ding**: received his degree of a Doctorate in Engineering (Dr.-Ing.) from the faculty of mathematics and computer science at the University of Hagen, Germany. He is currently an Associate Professor (Universitetslektor, Docent) at the Department of Computer Science, Blekinge Institute of Technology, Sweden. His research interests include cybersecurity, critical infrastructure protection, intelligent technologies, blockchain, and distributed systems management and control. He is a Senior Member of IEEE (SM'11) and a Senior Member of ACM (SM'20).
+**Dr. Jianguo Ding**: received his degree of a Doctorate in Engineering (Dr.-Ing.) from the faculty of mathematics and computer science at the [University of Hagen](https://www.fernuni-hagen.de/english/), Germany. He is currently an Associate Professor (Universitetslektor, Docent) at the Department of Computer Science, [Blekinge Institute of Technology](https://www.bth.se/eng/), Sweden. His research interests include cybersecurity, critical infrastructure protection, intelligent technologies, blockchain, and distributed systems management and control. He is a Senior Member of IEEE (SM'11) and a Senior Member of ACM (SM'20).
 
 ------
 
