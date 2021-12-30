@@ -95,8 +95,10 @@ Course responsible or examiner for following courses:
 
   ## Financed by
 
-  This project is financed by The European Union - The Internal Security Fund.
-  ![image](https://user-images.githubusercontent.com/6349761/147782399-5f794e1c-9758-4b5c-8e42-47db95da1d6b.png)
+  This project is financed by The European Union - The Internal Security Fund. 
+  
+  ![image](https://user-images.githubusercontent.com/6349761/147782584-337780b2-8ea5-472a-aa80-df31e392d84a.png)
+
 
 4. ## ELVIRA prototype validation I + II with Skövde Energi AB (2020, supported by Vinnova) (co-applicant)
 
