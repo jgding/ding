@@ -181,7 +181,7 @@ This project is financed by Vinnova. ![image](https://user-images.githubusercont
 ## Books:
 
 1. Jianguo Ding, Huansheng Ning (authors): Threat modeling for networked critical infrastructure protection. To be published by CRC Press, Taylor & Francis Group, ISBN 9780367565909, 2023.
-2. Jianguo Ding (Author): [Advances in Network Management](https://www.taylorfrancis.com/books/mono/10.1201/9781420064551/advances-network-management-jianguo-ding). (Hardcover, XXV + 364 Pages),  CRC Press (Taylor & Francis Group), ISBN-10: 1420064525; ISBN-13: 978-1420064520, 2010 
+2. Jianguo Ding (Author): [Advances in Network Management](https://www.taylorfrancis.com/books/mono/10.1201/9781420064551/advances-network-management-jianguo-ding). (Hardcover, XXV + 364 Pages),  CRC Press (Taylor & Francis Group), ISBN-10: 1420064525; ISBN-13: 978-1420064520, 2010.  
 
    [Book review](https://ieeexplore.ieee.org/document/5594671) @ IEEE Communications Magazine, October 2010, Volume: 48, Issue:10, pages: 35 - 36, 2010.   
 4. Jianguo Ding (Author): [Probabilistic Fault Management in Distributed Systems](https://d-nb.info/992003245). ISSN: 0178-9627, ISBN: 978-3-18-379110-1, 158 pages, VDI Verlag, Germany, 2008
