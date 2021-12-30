@@ -14,23 +14,25 @@
 
 Course responsible or examiner for following courses:
 
-1. Digital forensics for incident response, 6 ECTS,
-2. [Digital forensics for incident response](https://www.his.se/en/education/courses/informatics/digital-forensics-for-incident-response-a1f-it771a/), 7.5 ECTS
-3. Cybersecurity for the Internet of Things and Critical Infrastructures, 7.5 ECTS
-4. [Network security operations](https://www.his.se/en/education/courses/informatics/network-security-operations-a1n-it760a/), 7.5 ECTS
-5. Intrusion detection system, 7.5 ECTS
-6. [Information Security - Network Security](https://www.his.se/en/education/courses/informatics/information-security-network-security-g1f-it393g/), 7.5 ECTS
-7. Operating Systems, 7.5 ECTS
-8. Data Communication – Introduction, 7.5 ECTS
-9. Distributed System / Distributed Network Design, 7.5 ECTS
-10. Cloud Computing, 7.5 ECTS
-11. [Final Year Project in Informatics with Specialization towards Network and System Administration](https://www.his.se/en/education/courses/informatics/bachelor-degree-project-in-information-technology-with-a-specialisation-in-network-and-system-administration-g2e-it610g/), 22.5 ECTS
-12. Project in Privacy, Information Security and Cyber Security, 15 ECTS
-13. Master Degree Project in Informatics with a Specialization in Privacy, Information and Cyber Security, 15 ECTS
-14. Master Degree Project in Informatics with a Specialization in Privacy, Information and Cyber Security, 30 ECTS
-15. Network Security, 7.5 ECTS
-16. Advanced Network design, 7.5 ECTS 
-17. Seminar in Recent Advances in Networking, 3 ECTS
+1. Security Models and Risk Management, 6 ECTS
+2. Digital forensics for incident response, 6 ECTS,
+3. [Digital forensics for incident response](https://www.his.se/en/education/courses/informatics/digital-forensics-for-incident-response-a1f-it771a/), 7.5 ECTS
+4. Cybersecurity for the Internet of Things and Critical Infrastructures, 7.5 ECTS
+5. [Network security operations](https://www.his.se/en/education/courses/informatics/network-security-operations-a1n-it760a/), 7.5 ECTS
+6. Intrusion detection system, 7.5 ECTS
+7. [Information Security - Network Security](https://www.his.se/en/education/courses/informatics/information-security-network-security-g1f-it393g/), 7.5 ECTS
+8. Operating Systems, 7.5 ECTS
+9. Data Communication – Introduction, 7.5 ECTS
+10. Distributed System / Distributed Network Design, 7.5 ECTS
+11. Cloud Computing, 7.5 ECTS
+12. [Final Year Project in Informatics with Specialization towards Network and System Administration](https://www.his.se/en/education/courses/informatics/bachelor-degree-project-in-information-technology-with-a-specialisation-in-network-and-system-administration-g2e-it610g/), 22.5 ECTS
+13. Project in Privacy, Information Security and Cyber Security, 15 ECTS
+14. Master Degree Project in Informatics with a Specialization in Privacy, Information and Cyber Security, 15 ECTS
+15. Master Degree Project in Informatics with a Specialization in Privacy, Information and Cyber Security, 30 ECTS
+16. Master's Thesis in Electrical Engineering with emphasis on Telecommunication Systems, 30 ECTS
+17. Network Security, 7.5 ECTS
+18. Advanced Network design, 7.5 ECTS 
+19. Seminar in Recent Advances in Networking, 3 ECTS
 
 ------
 
