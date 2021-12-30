@@ -20,12 +20,12 @@ University, supported by the Shanghai Science and Technology Committee, China) (
 # Education projects:
 
 1) Linnaeus-Palme Project, international bilateral education collaboration between University of Skövde and
-  Addis Ababa University, Ethiopia (2015-2017, University of Skövde, supported by UHR: The Swedish
-  Council for Higher Education) (project leader)
+    Addis Ababa University, Ethiopia (2015-2017, University of Skövde, supported by UHR: The Swedish
+    Council for Higher Education) (project leader)
   - 1st stage: 2015-2016, mutual visiting
   - 2nd stage: 2016-2017, teaching exchange
 2) “SPA”: Strategic Partnership between School of Informatics in the University of Skövde and IT-PhD
-  Program in Addis Ababa University. (2018 ) (co-applicant)
+    Program in Addis Ababa University. (2018 ) (co-applicant)
 
 
 
@@ -37,7 +37,8 @@ University, supported by the Shanghai Science and Technology Committee, China) (
 
 1. Jianguo Ding,** Huansheng Ning (authors): Threat modeling for networked critical infrastructure protection. To be published by CRC Press, Taylor & Francis Group, ISBN 9780367565909, 2023.
 2. **Jianguo Ding** (Author): [**Advances in Network Management**](https://sites.google.com/site/jianguoding/research/publications/advances-in-network-management). (Hardcover, XXV + 364 Pages),  [CRC Press](http://www.google.com/url?q=http%3A%2F%2Fwww.crcnetbase.com%2Fdoi%2Fbook%2F10.1201%2F9781420064551&sa=D&sntz=1&usg=AFQjCNEJNHHAV70beS2g6cDsYMPC7anJ_A) (Taylor & Francis Group), ISBN-10: 1420064525; ISBN-13: 978-1420064520, 2010 
-3. [**Book review**](http://www.google.com/url?q=http%3A%2F%2Fdx.doi.org%2F10.1109%2FMCOM.2010.5594671&sa=D&sntz=1&usg=AFQjCNHNFPs0tsGZLNZojVOQBhzzVbUGDg) @ IEEE Communications Magazine, October 2010, Volume: 48, Issue:10, pages: 35 - 36, 2010.   
+
+   [**Book review**](http://www.google.com/url?q=http%3A%2F%2Fdx.doi.org%2F10.1109%2FMCOM.2010.5594671&sa=D&sntz=1&usg=AFQjCNHNFPs0tsGZLNZojVOQBhzzVbUGDg) @ IEEE Communications Magazine, October 2010, Volume: 48, Issue:10, pages: 35 - 36, 2010.   
 4. **Jianguo Ding** (Author): [**Probabilistic Fault Management in Distributed Systems**](http://www.google.com/url?q=http%3A%2F%2Fd-nb.info%2F992003245&sa=D&sntz=1&usg=AFQjCNEmtxAe0FfOc6_jDsupGGbXaL5HoQ). ISSN: 0178-9627, ISBN: 978-3-18-379110-1, 158 pages, VDI Verlag, Germany, 2008
 
 ## Journal papers (peer-reviewed)
