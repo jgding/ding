@@ -45,7 +45,7 @@ Course responsible or examiner for following courses:
 
   ## Financed by
 
-  This project is financed by Energiforsk. <img src="https://www.his.se/contentassets/7887aa427d684e11834269bc55a78173/energiforsk-ab-vector-logo.png" alt="img" style="zoom: 25%;" />
+  This project is financed by Energiforsk.![image-20211230201036169](C:\Users\jiang\AppData\Roaming\Typora\typora-user-images\image-20211230201036169.png)
 
 2. ## CPS-based resilience for critical infrastructure protection (2020-2021, supported by Vinnova, 2019-05020, project partners: University of Skövde and Mälardalen University) (project leader).
 
@@ -59,7 +59,7 @@ Course responsible or examiner for following courses:
 
   ## Financed by
 
-  This project is financed by Vinnova. <img src="https://www.his.se/contentassets/e86a69321722493bb59921ceef303b54/2566e870-35df-4127-a1d6-e2157d32aa9b.png" alt="img" style="zoom:25%;" />
+  This project is financed by Vinnova. ![image-20211230201154543](C:\Users\jiang\AppData\Roaming\Typora\typora-user-images\image-20211230201154543.png)
 
 3. ## ELVIRA: Threat modeling and resilience of critical infrastructures (2017-2020, University of Skövde,
 
@@ -116,6 +116,8 @@ Course responsible or examiner for following courses:
    Projektet fokuserar på kritisk infrastruktur. Målen inkluderar utveckling av modeller som identifierar beroenden, underlättar bedömningen av sårbarheter och utvärderar de övergripande konsekvenserna av misslyckande. Resultatet av detta projekt inkluderar ökade kapaciteter för att hantera hot mot elnätet samt verktyg för att hjälpa beslutsfattare att se beroenden i kritisk infrastruktur och förutse graciösa störningar och / eller deras kaskadeffekter.
    Målet med valideringsprojektet är att testa om ELVIRA-verktyget (för närvarande en prototyp) kan utvecklas till en produkt som faktiskt är användbar för små och medelstora energiföretag.
 
+   This project is financed by Vinnova. ![image-20211230201154543](C:\Users\jiang\AppData\Roaming\Typora\typora-user-images\image-20211230201154543.png)
+
 5. ## Sustainable traffic of autonomous vehicles in smart-parking management (2017- 2019, University of Skövde, supported by Vinnova, 2017-03028) (co-applicant)
 
   https://www.his.se/forskning/informationsteknologi/distribuerade-realtidssystem/smartpark/
@@ -135,6 +137,8 @@ Course responsible or examiner for following courses:
   ## Cloud service
 
   Parking as A Service is driven by IoT integration in traffic subsystems of smart cities. Outsourced parking-facility to a PSP generate new revenue streams by relaying parking-lot availabilities along with congestion-aware navigation services to vehicles. This is where our proposed SmartPark approach comes into action to run as a Cloud service using PSP-provided data, offering an available spot in a parking lot, as well as a congestion-aware navigation route.
+
+  This project is financed by Vinnova. ![image-20211230201154543](C:\Users\jiang\AppData\Roaming\Typora\typora-user-images\image-20211230201154543.png)
 
   
 
