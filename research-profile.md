@@ -34,6 +34,8 @@ Course responsible or examiner for following courses:
 16. Advanced Network design, 7.5 ECTS 
 17. Seminar in Recent Advances in Networking, 3 ECTS
 
+------
+
 # Research projects
 
 ## 1. Blockchain based Production and Distribution Controls of Smart Grids, supported by Energiforsk (https://energiforsk.se/), (2021-2022, at University of Skövde) (poject leader)
@@ -161,7 +163,7 @@ This project is financed by Vinnova. ![image](https://user-images.githubusercont
 
 ## 7. Autonomic Security Management in Dynamic Networks (2010 -2012, University of Luxembourg, supported by FNR: the National Research Fund of Luxembourg) (project leader)
 
-
+------
 
 # Education projects:
 
@@ -172,9 +174,7 @@ This project is financed by Vinnova. ![image](https://user-images.githubusercont
 2) “SPA”: Strategic Partnership between School of Informatics in the University of Skövde and IT-PhD
     Program in Addis Ababa University. (2018 ) (co-applicant)
 
-
-
-
+------
 
 # Publications
 
