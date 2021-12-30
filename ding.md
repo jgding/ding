@@ -62,6 +62,13 @@ https://www.his.se/en/research/informatics/distributed-real-time-systems/blockch
 
   This project is financed by Energiforsk.![image](https://user-images.githubusercontent.com/6349761/147782428-8014cb21-f23f-4f8b-b88b-a0e88a80702c.png)
 
+### Other information
+
+- in the news:[ 1](https://www.google.com/url?q=https%3A%2F%2Fwww.his.se%2Fen%2Fnews%2F2021%2Fmarch%2Fis-blockchain-technology-the-solution-to-swedens-electricity-challenges%2F&sa=D&sntz=1&usg=AFQjCNGOieiLxps4gsTQjX8Wnq2uxs_s0A), [2](https://energiforsk.se/nyhetsarkiv/arkiverade/gemensam-marknad-genom-blockkedjeteknik/)
+- support thesis work: 
+  - [Blockchain in the Swedish Energy market (2021) ](https://www.google.com/url?q=https%3A%2F%2Fwww.diva-portal.org%2Fsmash%2Fget%2Fdiva2%3A1593013%2FFULLTEXT01.pdf&sa=D&sntz=1&usg=AFQjCNESyOL-OLIPPpjXnuSPU1-Irz7Teg)
+  - [What are the Problems with Implementing Blockchain Technology for Decentralized IoT Authentication: A Systematic Literature Review (2020)](http://www.google.com/url?q=http%3A%2F%2Fhis.diva-portal.org%2Fsmash%2Frecord.jsf%3Fpid%3Ddiva2%3A1450782%26dswid%3D-5275&sa=D&sntz=1&usg=AFQjCNGLLYCGGIg5FFd7GSsy3kgCWsIGDQ)
+
 ## 2. CPS-based resilience for critical infrastructure protection (2020-2021, supported by Vinnova, 2019-05020, project partners: University of Skövde and Mälardalen University) (project leader).
 
   https://www.his.se/forskning/informationsteknologi/distribuerade-realtidssystem/cps/
@@ -114,6 +121,8 @@ https://www.his.se/en/research/informatics/distributed-real-time-systems/blockch
 
   ![image](https://user-images.githubusercontent.com/6349761/147782584-337780b2-8ea5-472a-aa80-df31e392d84a.png)
 
+### In the news:  [1](https://www.google.com/url?q=https%3A%2F%2Fskovdeenergi.se%2Fnyheter%2F2021%2F08%2F18%2Fnytt-verktyg-ska-skydda-elnat-mot-cyberattacker%2F&sa=D&sntz=1&usg=AFQjCNHP3fxoY5lfWPfO36_cNg2OcMEgRA), [2](https://www.google.com/url?q=https%3A%2F%2Fwww.mynewsdesk.com%2Fse%2Fhis%2Fpressreleases%2Fprojektavslut-paa-forskning-om-infrastrukturers-motstaandskraft-2976450&sa=D&sntz=1&usg=AFQjCNHzkw1RONSzZIJbeS1JWL57OsDpmw), [3](http://www.google.com/url?q=http%3A%2F%2Fwww.energipress.se%2Fse%2Farticle_print.php%3Fid%3D828641&sa=D&sntz=1&usg=AFQjCNEDXp1xL79QwQI6xywsnBZOOJUi-g), [4](https://www.google.com/url?q=https%3A%2F%2Fdocplayer.se%2F116538893-Johan-thulin-technology-officer-cyber-security-it-forum-2018-effektiv-sakerhet.html&sa=D&sntz=1&usg=AFQjCNFjIidM2agT4OyfB-TGZNnM8GY4Bw), [5](https://www.google.com/url?q=https%3A%2F%2Fwww.his.se%2Fnyheter%2F2020%2Fapril%2Fworkshop-kring-elnatsakerhet-nar-elvira-projektet-presenterades%2F&sa=D&sntz=1&usg=AFQjCNGUdoenu5OOvnpQRWy_7gF6e0UwxA), [6](https://www.google.com/url?q=https%3A%2F%2Fwww.uochd.se%2Farticle%2Fview%2F702747%2Felvira_forebygger_elhaveri&sa=D&sntz=1&usg=AFQjCNGwLOwkKTClxwqR6sQYbFF9z_x-Jw), [7](https://www.google.com/url?q=https%3A%2F%2Fwww.skaraborgsnyheter.se%2Fskaraborgs-och-riksnyheter%2Fforskare-vid-hogskolan-i-skovde-tar-fram-verktyg-mot-cyberattacker-tillsammans-med-skovde-energi-och-skovde-kommun%2F&sa=D&sntz=1&usg=AFQjCNEd6xMXYpf_krajxIsD9CGjVMu1Mw), [8](https://www.google.com/url?q=https%3A%2F%2Fwww.cencip.lu.se%2Fartikel%2Fjoint-critical-infrastructure-workshop&sa=D&sntz=1&usg=AFQjCNEkZH4s7VuSNxL_qp4uYL5F1U2jtA), [9](https://www.google.com/url?q=https%3A%2F%2Fwww.sla.se%2Fskovde%2F2016%2F12%2F19%2Fforskar-om-kraftnathot%2F&sa=D&sntz=1&usg=AFQjCNEEhDjhS6uQixvaoIZ9-9dbWRbFuQ), [10](https://www.google.com/url?q=https%3A%2F%2Fwww.mynewsdesk.com%2Fse%2Fhis%2Fpressreleases%2Fhoegskolan-i-skoevde-faar-pengar-till-forskning-om-hot-mot-svenska-kraftnaetet-1695592&sa=D&sntz=1&usg=AFQjCNH1hyK2EyjmqUG129pQHe2fKWbVHw)
+
 ## 4. ELVIRA prototype validation I + II with Skövde Energi AB (2020, supported by Vinnova) (co-applicant)
 
 Projektet utvärderar den praktiska användbarheten av de verktyg som utvecklats i EU ISF-projektet ELVIRA för att bedöma sårbarheten för IT-systemen för kritisk infrastruktur, särskilt kraftnät. Utvärderingen ska göras i samarbete med medelstora elnätsföretag.
@@ -163,16 +172,25 @@ This project is financed by Vinnova. ![image](https://user-images.githubusercont
 
 ## 7. Autonomic Security Management in Dynamic Networks (2010 -2012, University of Luxembourg, supported by FNR: the National Research Fund of Luxembourg) (project leader)
 
+## 8. EFIPSANS: Exposing the Features in IP version Six protocols that can be exploited/extended for the purposes of designing/building Autonomic Networks and Services **(2008-2010, University of Luxembourg, Luxembourg. Supported by FP7)**
+
+The EFIPSANS project  aims at exposing the features in IP version six protocols that can be exploited or extended for the purposes of designing or building autonomic networks and services. What this means is, a study of the emerging research areas that target desirable user behaviours, terminal behaviours, service mobility, e-mobility, context-aware communications, self-ware, autonomic communication /computing /networking will be carried out, and out of these areas desirable autonomic(self-*) behaviours in diverse environments e.g. end systems, access networks, wireless versus fixed network environments will be captured and specified. Appropriate IPv6 protocol or architectural extensions that enable the implementation of the captured desirable autonomic behaviours will be sought and specified. A selected set of the specified autonomic behaviours will be implemented and demonstrated.  Also, technical reports on the concrete IPv6 feature combination scenarios including any new extensions used to implement the selected set of autonomic behaviours will be presented.   The vision is that, the specified autonomic behaviour specifications, the identified exploitable IPv6 features and new protocol and architectural extensions will one day be standardized in the long run (after the first 3 years of EFIPSANS) i.e. maturing from being drafts to standards.
+
 ------
 
 # Education projects:
 
 1) [Linnaeus-Palme Project](https://www.utbyten.se/program/linnaeus-palme-partnerskap/), international bilateral education collaboration with [Addis Ababa University](http://www.aau.edu.et/), Ethiopia (2015-2017, University of Skövde, supported by [UHR](https://www.uhr.se/): The Swedish Council for Higher Education, project leader)
+     
      - 1st stage: 2015-2016, mutual visiting
      - 2nd stage: 2016-2017, teaching exchange
-
+     
 2) “SPA”: Strategic Partnership between School of Informatics in the University of Skövde and IT-PhD
     Program in Addis Ababa University. (2018 ) (co-applicant)
+    
+    
+    
+    in the news: [1](http://www.google.com/url?q=http%3A%2F%2Fethemb.se%2Fambassador-visited-to-the-university-of-skovde%2F&sa=D&sntz=1&usg=AFQjCNEwndKxWql-1CwHfDnfcUld97MXcA),  [2](https://www.google.com/url?q=https%3A%2F%2Fwww.his.se%2Fen%2Fnews%2F2018%2Faugust%2Fambassador-visits-university-of-skovde%2F&sa=D&sntz=1&usg=AFQjCNFnpTPx7DzpMzcxLaqyASQY_xxp7Q), [3](https://www.google.com/url?q=https%3A%2F%2Fallafrica.com%2Fstories%2F201511160818.html&sa=D&sntz=1&usg=AFQjCNHQoBAs3dyrvbgPmIdJlzVWXSspKg), [4](https://www.google.com/url?q=https%3A%2F%2Fwww.geeskaafrika.com%2Faddis-ababa-university-signs-an-mou-with-skovde-university-sweden%2F&sa=D&sntz=1&usg=AFQjCNEclYpKwO5YqoOIpLQh542kwvlOQA) 
 
 ------
 
