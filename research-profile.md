@@ -1,29 +1,161 @@
+# Course Teaching
+
+Course responsible or examiner for following courses:
+
+1. Digital forensics for incident response, 6 ECTS,
+2. [Digital forensics for incident response](https://www.his.se/en/education/courses/informatics/digital-forensics-for-incident-response-a1f-it771a/), 7.5 ECTS
+3. Cybersecurity for the Internet of Things and Critical Infrastructures, 7.5 ECTS
+4. [Network security operations](https://www.his.se/en/education/courses/informatics/network-security-operations-a1n-it760a/), 7.5 ECTS
+5. Intrusion detection system, 7.5 ECTS
+6. [Information Security - Network Security](https://www.his.se/en/education/courses/informatics/information-security-network-security-g1f-it393g/), 7.5 ECTS
+7. Operating Systems, 7.5 ECTS
+8. Data Communication – Introduction, 7.5 ECTS
+9. Distributed System / Distributed Network Design, 7.5 ECTS
+10. Cloud Computing, 7.5 ECTS
+11. [Final Year Project in Informatics with Specialization towards Network and System Administration](https://www.his.se/en/education/courses/informatics/bachelor-degree-project-in-information-technology-with-a-specialisation-in-network-and-system-administration-g2e-it610g/), 22.5 ECTS
+12. Project in Privacy, Information Security and Cyber Security, 15 ECTS
+13. Master Degree Project in Informatics with a Specialization in Privacy, Information and Cyber Security, 15 ECTS
+14. Master Degree Project in Informatics with a Specialization in Privacy, Information and Cyber Security, 30 ECTS
+15. Network Security, 7.5 ECTS
+16. Advanced Network design, 7.5 ECTS 
+17. Seminar in Recent Advances in Networking, 3 ECTS
+
 # Research projects
 
-1) Blockchain based Production and Distribution Controls of Smart Grids, supported by Energiforsk
-(https://energiforsk.se/), (2021-2022, at University of Skövde) (poject leader)
-https://www.his.se/en/research/informatics/distributed-real-time-systems/blockchain-based-production/
-2) CPS-based resilience for critical infrastructure protection (2020-2021, supported by Vinnova, 2019-05020, project partners: University of Skövde and Mälardalen University) (project leader).
-https://www.his.se/forskning/informationsteknologi/distribuerade-realtidssystem/cps/
-3) ELVIRA: Threat modeling and resilience of critical infrastructures (2017-2020, University of Skövde,
-supported by EU-ISF: European Union - Internal Security Fund, project partners: University of Skövde and Combitech AB, 7,6MSEK) (project leader) https://www.his.se/elvira
-4) ELVIRA prototype validation I + II with Skövde Energi AB (2020, supported by Vinnova) (co-applicant)
-5) Sustainable traffic of autonomous vehicles in smart-parking management (2017- 2019, University of Skövde, supported by Vinnova, 2017-03028) (co-applicant)
-https://www.his.se/forskning/informationsteknologi/distribuerade-realtidssystem/smartpark/
-6) Gamehub Scandinavia 1.0 + 2.0 (2016-2021, supported by EU European Regional Development Fund) (key participant, project leader: Per Backlund)
-7) Autonomic Security Management in Dynamic Networks (2010 -2012, University of Luxembourg, supported by FNR: the National Research Fund of Luxembourg) (project leader)
-8) Behavior-based Malicious codes (network virus) Detection (2007–2008, East China Normal University,
-supported by the Shanghai Science and Technology Committee, China) (project leader)
-9) Research on the Data Process for Large Scale Digital Media System (2007 – 2009, East China Normal
-University, supported by the Shanghai Science and Technology Committee, China) (project leader)
+1. ## Blockchain based Production and Distribution Controls of Smart Grids, supported by Energiforsk
+
+  (https://energiforsk.se/), (2021-2022, at University of Skövde) (poject leader)
+  https://www.his.se/en/research/informatics/distributed-real-time-systems/blockchain-based-production/
+
+  Over the past years, Sweden has seen a large increase in micro producers, owner of energy system. That means more installations of low voltage distributed generators and energy production systems, such as solar panels, bioelectrical energy, wind energy etc., have been connected to traditional grids. The Swedish system is set-up in a way that a micro-producer can either consume the electricity the energy system produces or feed it into the grid. The electricity not used is automatically delivered.
+
+  ## Protect micro-grid system
+
+  But as we see more and more micro producers, there is a raising challenge on how to protect the microgrid systems during operation, power balancing and communications between different distributed generators. It is, therefore, essential to develop scientific methods to ensure the infrastructure automation and the decentralized application of energy production and distribution.
+
+  ## Develop blockchain solution
+
+  It is desirable to integrate the production and distribution of these low-voltage electric powers together with traditional power grids creating a common and secure power-sharing system. Therefore, in this project, we will develop a blockchain based solutions that will provide a safe, reliable and efficient application of new low-voltage energy production and distribution that can be integrated to a regional or national power grid.
+
+  In order to evaluate the effectiveness, we are going to demonstrate a pilot simulation project based on the implementation of the proposed technology to test a secure storage and exchange of data in supporting the free trade of energy in smart grid (microgrid) in Sweden.
+
+  ## Will maximize energy production
+
+  If the project results prove the feasibility, this method can be widely used and add value to the current energy control system and will optimize renewable energy production, distribution and consumption. This new technology will provide a fast, safe and precise solutions to support and coordinate production and distribution of energy. This could in turn contribute to the environment (climate change) by maximizing energy production and consumption as well as minimizing energy loss.
+
+  ## Financed by
+
+  This project is financed by Energiforsk. <img src="https://www.his.se/contentassets/7887aa427d684e11834269bc55a78173/energiforsk-ab-vector-logo.png" alt="img" style="zoom: 25%;" />
+
+2. ## CPS-based resilience for critical infrastructure protection (2020-2021, supported by Vinnova, 2019-05020, project partners: University of Skövde and Mälardalen University) (project leader).
+
+  https://www.his.se/forskning/informationsteknologi/distribuerade-realtidssystem/cps/
+
+  The research idea behind the project is to address the challenge and to provide technical solutions to understand and improve CPS-based resilience for critical infrastructure protection (CIP). The research is planned for a future EU-funded project application to collaborate with academic and industrial partners in the EU.
+
+  The increasing use of connected Cyber-Physical Systems (CPS) in critical infrastructures (CI) not only enlarges the attack surface of CIs, but also increases the complexity to ensure elasticity in the event of accidents.
+
+  The research idea behind this project proposal is to address the challenge and to provide technical solutions to understand and improve CPS-based Resilience for Critical Infrastructure Protection (CIP). The research is planned for a future EU-funded project application to collaborate with academic and industrial partners in the EU. Teams from Skövde University and Mälardalen University are doing joint work for this feasibility study for the future development of research projects.
+
+  ## Financed by
+
+  This project is financed by Vinnova. <img src="https://www.his.se/contentassets/e86a69321722493bb59921ceef303b54/2566e870-35df-4127-a1d6-e2157d32aa9b.png" alt="img" style="zoom:25%;" />
+
+3. ## ELVIRA: Threat modeling and resilience of critical infrastructures (2017-2020, University of Skövde,
+
+  supported by EU-ISF: European Union - Internal Security Fund, project partners: University of Skövde and Combitech AB, 7,6MSEK) (project leader) https://www.his.se/elvira
+
+  The Elvira project develops time-based infrastructure dependency analysis for the power-grid to model risk assessment and resilience index, which assist decision makers in anticipating failures and their cascading effects.
+
+  The Elvira project develops time-based models and analysis methods to model the risk assessment and resilience index of electricity grids, with the aim of helping decision-makers to predict errors and their cascade effects.
+
+  ## The electricity infrastructure
+
+  Most socially important functions, such as health care, water supply, food supply and communication, depend on reliable electricity supply. The electricity grid is maintained by many different actors such as electricity producers, electricity distributors and various municipalities. These infrastructure components are integrated partly with each other and partly with components and services from other critical infrastructures and functions such as healthcare. The interdependence between the components is complex.
+
+  A failure of a component can lead to a domino effect and, in the worst case, cause errors in other infrastructures or interfere with vital functions, since access to, for example, heat, water, food and communication is dependent on access to electricity. The massive power outages that hit large parts of the US and Canada in 2003, California and Mexico in 2011 and India in 2012 are clear examples of how large sections of society can be knocked out by domino effects.
+
+  ## Our project examines five important issues:
+
+  - How do components of power networks relate to other parts of critical infrastructure?
+  - What is a possible explanation for a power grid component failure?
+  - What are the possible consequences of a crash?
+  - What is the current status of a power grid with regard to critical accidents?
+  - How can error messages and interesting views from citizens and other stakeholders be integrated with accident monitoring and analysis?
+
+  We focus on electricity networks and develop models to get a complex and holistic view of the dependencies and consequences in critical infrastructures. We do this by applying information fusion algorithms to data from different types of sources, e.g. sensors, logs, citizens and functions. The goal is improved situational awareness and increased resilience. The methods and algorithms we develop form part of a framework that will be expanded with real-time simulation in future projects.
+
+  ## Media coverage
+
+  - [Possible treats to electricity grid, source: sla.se](https://www.sla.se/2016/12/19/forskar-om-kraftnathot/)
+
+  ## News, events and publications
+
+  [On this page](https://www.his.se/en/research/informatics/distributed-real-time-systems/elvira/news-and-publications/) we list news, events and publications related to the project.
+
+  ## Financed by
+
+  This project is financed by The European Union - The Internal Security Fund
+
+  ![img](https://www.his.se/contentassets/f7b7ad91bcd042d4932df8af94e6bb7e/50a3ab50-26c1-4fd3-8de1-70672cf62be52.jpg)
+
+4. ## ELVIRA prototype validation I + II with Skövde Energi AB (2020, supported by Vinnova) (co-applicant)
+
+   Projektet utvärderar den praktiska användbarheten av de verktyg som utvecklats i EU ISF-projektet ELVIRA för att bedöma sårbarheten för IT-systemen för kritisk infrastruktur, särskilt kraftnät. Utvärderingen ska göras i samarbete med medelstora elnätsföretag.
+
+   Innovationsprojektet startar med att presentera ett standard generiskt kraft / IT-nätverk för experterna på Skövde Energi. Sedan representeras en del av Skövde Energis kraft / IT-nätverk i ELVIRA-verktygets nätverksmodeller.
+
+   ## Simuleringsverktyg ska bedöma sårbarheter
+
+   Under extraktionen av den nödvändiga inventeringen identifieras och avlägsnas brister i ELVIRA nätverksmodeller. Den resulterande nätverksmodellen överlämnas sedan till det cyber-fysiska simuleringsverktyget för ELVIRA för att bedöma nätverkets sårbarhet och den potentiella skadan av riktade cyberattacker.
+
+   Vi ska också samla in kraven för att importera / exportera verktyg för att integrera ELVIRA-verktyget med befintliga IT / lagerhanteringssystem hos kraftföretaget. Slutligen kommer vi också att tillämpa den onlinebaserade databasen som utvecklats i ELVIRA för att statiskt bedöma sårbarheten för IT-komponenterna hos kraftföretaget.
+
+   ## Bidra till ökad kapacitet för att hantera hot
+
+   Projektet fokuserar på kritisk infrastruktur. Målen inkluderar utveckling av modeller som identifierar beroenden, underlättar bedömningen av sårbarheter och utvärderar de övergripande konsekvenserna av misslyckande. Resultatet av detta projekt inkluderar ökade kapaciteter för att hantera hot mot elnätet samt verktyg för att hjälpa beslutsfattare att se beroenden i kritisk infrastruktur och förutse graciösa störningar och / eller deras kaskadeffekter.
+   Målet med valideringsprojektet är att testa om ELVIRA-verktyget (för närvarande en prototyp) kan utvecklas till en produkt som faktiskt är användbar för små och medelstora energiföretag.
+
+5. ## Sustainable traffic of autonomous vehicles in smart-parking management (2017- 2019, University of Skövde, supported by Vinnova, 2017-03028) (co-applicant)
+
+  https://www.his.se/forskning/informationsteknologi/distribuerade-realtidssystem/smartpark/
+
+  Cutting-edge Internet of Things (IoT) devices are increasingly deployed in urban environments creating new data streams, which could be exploited to deliver novel cloud-based services. Connected vehicles and road-infrastructure data are leveraged in this project to alleviate parking and induced traffic-congestion issues. The proposed SmartPark algorithm maximizing parking availability prediction, while minimizing the journey duration to the selected parking lot.
+
+  The increased volume of individuals in a limited land area to seek some activity provides grounds for a parking problem to arise. Ultrasonic and magnetic sensors are already mounted in parking lots to detect the availability of a parking spot in parking lots. The sensor conveys the parking-spot availability information in real time to a parking system, which communicates this information to a Cloud-based service that is further exploited by third-party parking-service providers (PSPs).
+
+  This trend is part of the current Internet- of-Things (IoT) evolution that is powering the reach to contextual information of a wide range of future smart-city sub-systems. The streams of data that literally "senses the city" is increasingly driving open Cloud-services to stimulate technology and business innovations.
+
+  ## Service providers
+
+  Smart parking service providers are potential beneficiaries of this evolution, particularly with the expected progression towards connected and driverless vehicles. These services are expected to be exploited for better infrastructure management and new added-value services to both users, city managers and businesses. Smart parking service providers are potential beneficiaries of this evolution, particularly with the expected progression towards connected and driverless vehicles. In this foreseeable context, parking land is a commodity used by the real-estate owner and/or by tenants for a fee, while new parking-service provider (PSP) intermediaries supply necessary IoT infrastructures to bring that parking information to a Cloud service.
+
+  ## ![img](https://www.his.se/contentassets/fabb36f1b05342b78d7c5d9a3f7787a8/eaaec2ce-b297-4522-a60b-886956a945f5.png)
+
+  ## Cloud service
+
+  Parking as A Service is driven by IoT integration in traffic subsystems of smart cities. Outsourced parking-facility to a PSP generate new revenue streams by relaying parking-lot availabilities along with congestion-aware navigation services to vehicles. This is where our proposed SmartPark approach comes into action to run as a Cloud service using PSP-provided data, offering an available spot in a parking lot, as well as a congestion-aware navigation route.
+
+  
+
+  [![img](https://www.his.se/contentassets/fabb36f1b05342b78d7c5d9a3f7787a8/image001.png)](https://www.iva.se/en/published/ivas-100-list-highlights-prominent-research/)
+
+6. [Gamehub Scandinavia 1.0 and Gamehub Scandinavia 2.0](https://gamehubscandinavia.dk/) (2016-2018, 2019-2021, supported by EU regional development fund). (key participant, project leader: Per Backlund)
+
+7. Autonomic Security Management in Dynamic Networks (2010 -2012, University of Luxembourg, supported by FNR: the National Research Fund of Luxembourg) (project leader)
+
+8. Behavior-based Malicious codes (network virus) Detection (2007–2008, East China Normal University,
+  supported by the Shanghai Science and Technology Committee, China) (project leader)
+
+9. Research on the Data Process for Large Scale Digital Media System (2007 – 2009, East China Normal
+  University, supported by the Shanghai Science and Technology Committee, China) (project leader)
 
 # Education projects:
 
-1) Linnaeus-Palme Project, international bilateral education collaboration between University of Skövde and
-    Addis Ababa University, Ethiopia (2015-2017, University of Skövde, supported by UHR: The Swedish
-    Council for Higher Education) (project leader)
-  - 1st stage: 2015-2016, mutual visiting
-  - 2nd stage: 2016-2017, teaching exchange
+1) [Linnaeus-Palme Project](https://www.utbyten.se/program/linnaeus-palme-partnerskap/), international bilateral education collaboration with [Addis Ababa University](http://www.aau.edu.et/), Ethiopia (2015-2017, University of Skövde, supported by [UHR](https://www.uhr.se/): The Swedish Council for Higher Education, project leader)
+     - 1st stage: 2015-2016, mutual visiting
+     - 2nd stage: 2016-2017, teaching exchange
+
 2) “SPA”: Strategic Partnership between School of Informatics in the University of Skövde and IT-PhD
     Program in Addis Ababa University. (2018 ) (co-applicant)
 
