@@ -1,8 +1,14 @@
+
+
+------
+
 ”Curiosity, or love of the knowledge of causes, draws a man from consideration of the effect to seek the cause; and again, the cause of that cause; till of necessity he must come to this thought at last, that there is some cause whereof there is no former cause, but is eternal; which is it men call God. So that it is impossible to make any profound inquiry into natural causes without being inclined to believe there is one God eternal.”                                                                                         Thomas Hobbes (1588-1679) 
 
 
 
 **Dr. Jianguo Ding**: received his degree of a Doctorate in Engineering (Dr.-Ing.) from the faculty of mathematics and computer science at the University of Hagen, Germany. He is currently an Associate Professor (Universitetslektor, Docent) at the Department of Computer Science, Blekinge Institute of Technology, Sweden. His research interests include cybersecurity, critical infrastructure protection, intelligent technologies, blockchain, and distributed systems management and control. He is a Senior Member of IEEE (SM'11) and a Senior Member of ACM (SM'20).
+
+------
 
 
 
