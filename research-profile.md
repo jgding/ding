@@ -72,7 +72,7 @@ https://www.his.se/en/research/informatics/distributed-real-time-systems/blockch
 
   The research idea behind this project proposal is to address the challenge and to provide technical solutions to understand and improve CPS-based Resilience for Critical Infrastructure Protection (CIP). The research is planned for a future EU-funded project application to collaborate with academic and industrial partners in the EU. Teams from Skövde University and Mälardalen University are doing joint work for this feasibility study for the future development of research projects.
 
-## Financed by
+### Financed by
 
   This project is financed by Vinnova.![image](https://user-images.githubusercontent.com/6349761/147782249-a207c0c4-19f4-4cc3-ba5a-82980ecc8845.png)
 
