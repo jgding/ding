@@ -10,8 +10,6 @@
 
 ------
 
-
-
 # Course Teaching
 
 Course responsible or examiner for following courses:
