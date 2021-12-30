@@ -2,7 +2,7 @@
 
 ------
 
-”Curiosity, or love of the knowledge of causes, draws a man from consideration of the effect to seek the cause; and again, the cause of that cause; till of necessity he must come to this thought at last, that there is some cause whereof there is no former cause, but is eternal; which is it men call God. So that it is impossible to make any profound inquiry into natural causes without being inclined to believe there is one God eternal.”                                                                                         Thomas Hobbes (1588-1679) 
+”Curiosity, or love of the knowledge of causes, draws a man from consideration of the effect to seek the cause; and again, the cause of that cause; till of necessity he must come to this thought at last, that there is some cause whereof there is no former cause, but is eternal; which is it men call God. So that it is impossible to make any profound inquiry into natural causes without being inclined to believe there is one God eternal.”                                                                        —- Thomas Hobbes (1588-1679) 
 
 
 
