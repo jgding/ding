@@ -15,7 +15,7 @@
 Course responsible or examiner for following courses:
 
 1. Security Models and Risk Management, 6 ECTS
-2. Digital forensics for incident response, 6 ECTS,
+2. Advanced Topic in Computer Forensics, 7.5 ECTS,
 3. [Digital forensics for incident response](https://www.his.se/en/education/courses/informatics/digital-forensics-for-incident-response-a1f-it771a/), 7.5 ECTS
 4. Cybersecurity for the Internet of Things and Critical Infrastructures, 7.5 ECTS
 5. [Network security operations](https://www.his.se/en/education/courses/informatics/network-security-operations-a1n-it760a/), 7.5 ECTS
