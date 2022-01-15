@@ -14,11 +14,11 @@
 
 Course responsible or examiner for following courses:
 
-1. Security Models and Risk Management, 6 ECTS
-2. Advanced Topic in Computer Forensics, 7.5 ECTS,
-3. [Digital forensics for incident response](https://www.his.se/en/education/courses/informatics/digital-forensics-for-incident-response-a1f-it771a/), 7.5 ECTS
-4. Cybersecurity for the Internet of Things and Critical Infrastructures, 7.5 ECTS
-5. [Network security operations](https://www.his.se/en/education/courses/informatics/network-security-operations-a1n-it760a/), 7.5 ECTS
+1. Security Models and Risk Management, 6 ECTS, 2022-
+2. Advanced Topic in Computer Forensics, 7.5 ECTS, 2021-
+3. [Digital forensics for incident response](https://www.his.se/en/education/courses/informatics/digital-forensics-for-incident-response-a1f-it771a/), 7.5 ECTS, 2019-
+4. Cybersecurity for the Internet of Things and Critical Infrastructures, 7.5 ECTS, 2019-
+5. [Network security operations](https://www.his.se/en/education/courses/informatics/network-security-operations-a1n-it760a/), 7.5 ECTS, 2019-
 6. Intrusion detection system, 7.5 ECTS
 7. [Information Security - Network Security](https://www.his.se/en/education/courses/informatics/information-security-network-security-g1f-it393g/), 7.5 ECTS
 8. Operating Systems, 7.5 ECTS
@@ -233,45 +233,47 @@ The EFIPSANS project  aims at exposing the features in IP version six protocols 
 
 ## Conference Papers (peer-reviewed):
 
-1. LSTM for Periodic Broadcasting in Green IoT Applications over Energy Harvesting Enabled Wireless Networks: Case Study on ADAPCAST, accepted by the 17th International Conference on Mobility, Sensing and Networking (MSN 2021). 
+1. Huansheng Ning, Hang Wang, Wenxi Wang, Xiaozhen Ye, Jianguo Ding and Per Backlund，A Review on Serious Games in E-learning. To appear in the proceedings of  the 2021 IEEE Symposium Series on Computational Intelligence
+   (IEEE SSCI 2021). 
+2. LSTM for Periodic Broadcasting in Green IoT Applications over Energy Harvesting Enabled Wireless Networks: Case Study on ADAPCAST, accepted by the 17th International Conference on Mobility, Sensing and Networking (MSN 2021). 
    Mustapha Khiati (USTHB, Algeria), Djamel Djenouri (University of the West of England - UWE Bristol, UK), Jianguo Ding (University of Skövde, Sweden), Youcef Djenouri (SINTEF Digital, Norway)
-2. Jiang, Y., Jeusfeld, M., & Ding, J. (2021, August). Evaluating the Data Inconsistency of Open-Source Vulnerability Repositories. In *The 16th International Conference on Availability, Reliability and Security* (pp. 1-10).
-3. Jiang, Y., Atif, Y., & Ding, J. (2019, September). Cyber-physical systems security based on a cross-linked and correlated vulnerability database. In *International Conference on Critical Information Infrastructures Security* (pp. 71-82). Springer, Cham.
-4. Jiang Y, Atif Y, Ding J, Wang W. A Semantic Framework with Humans in the Loop for Vulnerability-
+3. Jiang, Y., Jeusfeld, M., & Ding, J. (2021, August). Evaluating the Data Inconsistency of Open-Source Vulnerability Repositories. In *The 16th International Conference on Availability, Reliability and Security* (pp. 1-10).
+4. Jiang, Y., Atif, Y., & Ding, J. (2019, September). Cyber-physical systems security based on a cross-linked and correlated vulnerability database. In *International Conference on Critical Information Infrastructures Security* (pp. 71-82). Springer, Cham.
+5. Jiang Y, Atif Y, Ding J, Wang W. A Semantic Framework with Humans in the Loop for Vulnerability-
    Assessment in Cyber-Physical Production Systems. In International Conference on Risks and Security of Internet and Systems 2019 Oct 29 (pp. 128-143). Springer, Cham.
-5. Jiang, Y., Atif, Y., & Ding, J. Cyber-physical systems security based on a cross-linked and correlated
+6. Jiang, Y., Atif, Y., & Ding, J. Cyber-physical systems security based on a cross-linked and correlated
    vulnerability database. In International Conference on Critical Information Infrastructures Security (pp. 71- 82). Springer, Cham, 2019.
-6. Yuning Jiang, Manfred Jeusfeld, Yacine Atif, Jianguo Ding, Christoffer Brax, Eva Nero: Language and
+7. Yuning Jiang, Manfred Jeusfeld, Yacine Atif, Jianguo Ding, Christoffer Brax, Eva Nero: Language and
    Repository for Cyber Security of Smart Grids 2018 IEEE 22nd International Enterprise Distributed Object Computing Conference (EDOC) 2018 Oct 16 (pp. 164-170).
-7. Dennis Modig, Jianguo Ding: Performance impacts on container based virtualization in virtualized
+8. Dennis Modig, Jianguo Ding: Performance impacts on container based virtualization in virtualized
    residential gateways. Proceedings of the 39th International Conference on Telecommunications and Signal Processing (TSP), pages: 27 - 32, DOI: 10.1109/TSP.2016.7760823, 2016.
-8. Yacine Atif, Jianguo Ding, Manfred A. Jeusfeld: Internet of Things Approach to Cloud-based Smart Car Parking.The 7th International Conference on Emerging Ubiquitous Systems and Pervasive Networks (EUSPN 2016). Procedia Computer Science, Volume 98, pages 193–198, 2016.
-9. Ranganai Chaparadza; Jianguo Ding; Djamel Djenouri: Preface of the 6th IEEE International Workshop on Management of Emerging Networks and Services. (IEEE Globecom MENS 2014).Proceedings of 2014 IEEE Globecom Workshops, pages 150 - 154, IEEE communication society press, ISBN: 978-1-4799-7470-2/14/, 2014.
-10. Ranganai Chaparadza; Tayeb Ben Meriem; John Strassner; Said Soulhi; Benoit Radier; Jianguo Ding;
+9. Yacine Atif, Jianguo Ding, Manfred A. Jeusfeld: Internet of Things Approach to Cloud-based Smart Car Parking.The 7th International Conference on Emerging Ubiquitous Systems and Pervasive Networks (EUSPN 2016). Procedia Computer Science, Volume 98, pages 193–198, 2016.
+10. Ranganai Chaparadza; Jianguo Ding; Djamel Djenouri: Preface of the 6th IEEE International Workshop on Management of Emerging Networks and Services. (IEEE Globecom MENS 2014).Proceedings of 2014 IEEE Globecom Workshops, pages 150 - 154, IEEE communication society press, ISBN: 978-1-4799-7470-2/14/, 2014.
+11. Ranganai Chaparadza; Tayeb Ben Meriem; John Strassner; Said Soulhi; Benoit Radier; Jianguo Ding;
     Zhiwei Yan: Industry Harmonization for Unified Standards on Autonomic Management & Control (AMC) of Networks and Services, SDN and NFV. Proceedings of 2014 IEEE Globecom Workshops, pages 155 - 160, IEEE communication society press, ISBN: 978-1-4799-7470-2/14/, 2014.
-11. Ranganai Chaparadza, Tayeb Ben Meriem, Benoit Radier, Szymon Szott, Michal Wodczak, Arun Prakash, Jianguo Ding, Said Soulhi, Andrej Mihailovic: SDN enablers in the ETSI AFI GANA Reference Model for Autonomic Management & Control (emerging standard), and Virtualization impact. Proceedings of 2013 IEEE Globecom Workshops, pages 818 - 823, IEEE communication society press, ISBN: 978-1-4799-2851-4/13, 2013.
-12. Ranganai Chaparadza, Tayeb Ben Meriem, Benoit Radier, Szymon Szott, Michal Wodczak, Arun Prakash, Jianguo Ding, Said Soulhi, Andrej Mihailovic: Implementation Guide for the ETSI AFI GANA model: A Standardized Reference Model for Autonomic Networking, Cognitive Networking and Self-Management. Proceedings of 2013 IEEE Globecom Workshops, pages 935 - 940, IEEE communication society press, ISBN: 978-1-4799-2851-4/13, 2013.
-13. Ranganai Chaparadza, Tony Jokikyyny, Latif Ladid, Jianguo Ding, Arun Prakash,Said Soulhi: The Diverse Stakeholder Roles to Involve in Standardization of Emerging and Future Self-Managing Networks.In the Proceedings of the IEEE Globecom 2011 Workshop on Management of Emerging Networks and Services, IEEE communication society press, 2011.
-14. Ranganai Chaparadza, Symeon Papavassiliou, Said Soulhi, Jianguo Ding: The Self-Managing Future
+12. Ranganai Chaparadza, Tayeb Ben Meriem, Benoit Radier, Szymon Szott, Michal Wodczak, Arun Prakash, Jianguo Ding, Said Soulhi, Andrej Mihailovic: SDN enablers in the ETSI AFI GANA Reference Model for Autonomic Management & Control (emerging standard), and Virtualization impact. Proceedings of 2013 IEEE Globecom Workshops, pages 818 - 823, IEEE communication society press, ISBN: 978-1-4799-2851-4/13, 2013.
+13. Ranganai Chaparadza, Tayeb Ben Meriem, Benoit Radier, Szymon Szott, Michal Wodczak, Arun Prakash, Jianguo Ding, Said Soulhi, Andrej Mihailovic: Implementation Guide for the ETSI AFI GANA model: A Standardized Reference Model for Autonomic Networking, Cognitive Networking and Self-Management. Proceedings of 2013 IEEE Globecom Workshops, pages 935 - 940, IEEE communication society press, ISBN: 978-1-4799-2851-4/13, 2013.
+14. Ranganai Chaparadza, Tony Jokikyyny, Latif Ladid, Jianguo Ding, Arun Prakash,Said Soulhi: The Diverse Stakeholder Roles to Involve in Standardization of Emerging and Future Self-Managing Networks.In the Proceedings of the IEEE Globecom 2011 Workshop on Management of Emerging Networks and Services, IEEE communication society press, 2011.
+15. Ranganai Chaparadza, Symeon Papavassiliou, Said Soulhi, Jianguo Ding: The Self-Managing Future
     Internet powered by the current IPv6 and Extensions to IPv6 towards "IPv6++"—a viable Roadmap Scenario for the Internet Evolution Path.Proceedings of the IEEE Globecom 2010 Workshop on Management of Emerging Networks and Services, pp. 551-556. IEEE communication society press, 2010.
-15. Abou-Atme, Z.; Wen Xu; Jianguo Ding: Fairness based crosstalk management in xDSL systems. Proceedings of the Mobile Congress (GMC), 2010 Global, vol., no., pp.1-6, IEEE communication society press, 2010.
-16. Zhao Lu; Jianguo Ding: An efficient semantic VSM based email categorization method. Proceedings of the Computer Application and System Modeling (ICCASM), 2010 International Conference on, vol.11, no., pp. 525-530, IEEE computer science society press, 2010.
-17. Jianguo Ding, Ilangko Balasingham and Pascal Bouvry: Management Challenges for Emerging Networks and Services. Proceedings of the International Conference on Ultra Modern Telecommunications & Workshops, ICUMT'09, pages 1-8. IEEE communication society press, 2009.
-18. Jianguo Ding, Ilangko Balasingham and Pascal Bouvry: Management of Overlay Networks: A Survey.
+16. Abou-Atme, Z.; Wen Xu; Jianguo Ding: Fairness based crosstalk management in xDSL systems. Proceedings of the Mobile Congress (GMC), 2010 Global, vol., no., pp.1-6, IEEE communication society press, 2010.
+17. Zhao Lu; Jianguo Ding: An efficient semantic VSM based email categorization method. Proceedings of the Computer Application and System Modeling (ICCASM), 2010 International Conference on, vol.11, no., pp. 525-530, IEEE computer science society press, 2010.
+18. Jianguo Ding, Ilangko Balasingham and Pascal Bouvry: Management Challenges for Emerging Networks and Services. Proceedings of the International Conference on Ultra Modern Telecommunications & Workshops, ICUMT'09, pages 1-8. IEEE communication society press, 2009.
+19. Jianguo Ding, Ilangko Balasingham and Pascal Bouvry: Management of Overlay Networks: A Survey.
     Proceedings of the 3rd International Conference on Mobile Ubiquitous Computing Systems, Services and Technologies, pages 249-255. IEEE computer society press, 2009.
-19. Jianguo Ding, Jian Jin, Pascal Bouvry, Yongtao Hu and Haibing Guan: Behavior-based Proactive Detection of Unknown Malicious Codes. Proceedings of 4th International Conference on Internet Monitoring and Protection, pages 72-77, IEEE computer society press, 2009.
-20. Jian Jin, Guo-Xing Huang, Jianguo Ding, Yong-Tao Hu: Parameters modeling for a modified mixture of experts. Proceedings of 7th World Congress on Intelligent Control and Automation, pages 4024-4029, 2008.
-21. Jianguo Ding, Ningkang Jiang, Xiaoyong Li, Bernd Krämer, Franco Davoli and Yingcai Bai: Construction of Simulation for Probabilistic Inference in Uncertain and Dynamic Networks Based on Bayesian Networks. Proceedings of the 6th International Conference on ITS Telecommunications, pages 983-986, IEEE communication society press, June 2006.
-22. Jianguo Ding, Xiaoyong Li, Ningkang Jiang, Bernd J. Krämer and Franco Davoli: Prediction Strategies for Proactive Management in Dynamic Distributed Systems. Proceedings of the International Conference on Digital Telecommunications, IEEE computer science society press, p. 74 (6 pages), August 2006, ISBN: 0- 7695-2650-0.
-23. Jianguo Ding, Bernd J. Krämer,Yingcai Bai and Hansheng Chen: Proactive Management Based on Dynamic Bayesian Networks in Distributed Systems. Proceedings of IM 2005 - 9th IFIP/IEEE International Symposium on Integrated Network Management, no. 1, pp. 1233-1236, IEEE communication society press, 2005.
-24. Jianguo Ding, Shihao Xu, Bernd J. Krämer, Yingcai Bai, Hansheng Chen and Jun Zhang: Probabilistic
+20. Jianguo Ding, Jian Jin, Pascal Bouvry, Yongtao Hu and Haibing Guan: Behavior-based Proactive Detection of Unknown Malicious Codes. Proceedings of 4th International Conference on Internet Monitoring and Protection, pages 72-77, IEEE computer society press, 2009.
+21. Jian Jin, Guo-Xing Huang, Jianguo Ding, Yong-Tao Hu: Parameters modeling for a modified mixture of experts. Proceedings of 7th World Congress on Intelligent Control and Automation, pages 4024-4029, 2008.
+22. Jianguo Ding, Ningkang Jiang, Xiaoyong Li, Bernd Krämer, Franco Davoli and Yingcai Bai: Construction of Simulation for Probabilistic Inference in Uncertain and Dynamic Networks Based on Bayesian Networks. Proceedings of the 6th International Conference on ITS Telecommunications, pages 983-986, IEEE communication society press, June 2006.
+23. Jianguo Ding, Xiaoyong Li, Ningkang Jiang, Bernd J. Krämer and Franco Davoli: Prediction Strategies for Proactive Management in Dynamic Distributed Systems. Proceedings of the International Conference on Digital Telecommunications, IEEE computer science society press, p. 74 (6 pages), August 2006, ISBN: 0- 7695-2650-0.
+24. Jianguo Ding, Bernd J. Krämer,Yingcai Bai and Hansheng Chen: Proactive Management Based on Dynamic Bayesian Networks in Distributed Systems. Proceedings of IM 2005 - 9th IFIP/IEEE International Symposium on Integrated Network Management, no. 1, pp. 1233-1236, IEEE communication society press, 2005.
+25. Jianguo Ding, Shihao Xu, Bernd J. Krämer, Yingcai Bai, Hansheng Chen and Jun Zhang: Probabilistic
     Inference Strategy in Distributed Intrusion Detection Systems. In: Jiannong Cao, Laurence T. Yang, Minyi Guo, et al. (Eds.) Second International Symposium, ISPA 2004 Lecture Notes in Computer Science, Volume 3358, pp. 835-844, Springer-Verlag Heidelberg, 2004.
-25. Jianguo Ding, Bernd J. Krämer, Yingcai Bai, and Hansheng Chen: Probabilistic Inference for Network
+26. Jianguo Ding, Bernd J. Krämer, Yingcai Bai, and Hansheng Chen: Probabilistic Inference for Network
     Management. In: M.M. Freire, P. Chemouil, P. Lorenz (Eds.) Universal Multiservice Networks: Third
     European Conference, ECUMN 2004 Lecture Notes in Computer Science, Volume 3262, pp. 498-507,
     Springer-Verlag Heidelberg, 2004.
-26. Jianguo Ding, Bernd J. Krämer, Shihao Xu, Hansheng Chen and Yingcai Bai: Predictive Fault Management in the Dynamic Environment of IP Networks. Proceedings of IEEE Workshop IP Operations and Management, 2004. p, pp. 233- 239, IEEE communication society press, 2004.
-27. Jianguo Ding, Jun Zhang, Yingcai Bai, and Hansheng Chen: One Backward Inference Algorithm in Bayesian Networks. In: Kim-Meow Liew, Hong Shen, Simon See, Wentong Cai (Eds.) Parallel and Distributed Computing: Applications and Technologies: 5th International Conference, PDCAT 2004, Lecture Notes in Computer Science, Volume 3320, pp. 72-75, Springer-Verlag Heidelberg, 2004.  
+27. Jianguo Ding, Bernd J. Krämer, Shihao Xu, Hansheng Chen and Yingcai Bai: Predictive Fault Management in the Dynamic Environment of IP Networks. Proceedings of IEEE Workshop IP Operations and Management, 2004. p, pp. 233- 239, IEEE communication society press, 2004.
+28. Jianguo Ding, Jun Zhang, Yingcai Bai, and Hansheng Chen: One Backward Inference Algorithm in Bayesian Networks. In: Kim-Meow Liew, Hong Shen, Simon See, Wentong Cai (Eds.) Parallel and Distributed Computing: Applications and Technologies: 5th International Conference, PDCAT 2004, Lecture Notes in Computer Science, Volume 3320, pp. 72-75, Springer-Verlag Heidelberg, 2004.  
 
 
 
